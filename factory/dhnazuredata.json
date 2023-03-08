@@ -1,0 +1,9 @@
+{
+	"name": "dhnazuredata",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b249989-43a6-40a7-94b0-1ba11dec054e",
+		"tenantId": "c0f5d00c-ed4f-48c1-a8f4-01e672860e58"
+	}
+}
